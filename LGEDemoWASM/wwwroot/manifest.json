@@ -1,6 +1,6 @@
 {
-  "name": "LGEDemoWASM",
-  "short_name": "LGEDemoWASM",
+  "name": "SD-Website",
+  "short_name": "SD-Website",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
