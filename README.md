@@ -1,1 +1,3 @@
-# Sleeping Donkey WASM app and Azure Functions
+# Sleeping Donkey Azure Projects
+- WASM web assembly
+- Azure Functions
